@@ -1,0 +1,40 @@
+/* Navigation */
+#navbar {
+    overflow: hidden;
+    flex-direction: column;
+    /* background-image: url(uns.webp); */
+}
+
+#navbar ul li a {
+    font-size: 1rem;
+}
+
+/* Home Section  */
+
+#home {}
+
+/* Servicrs section */
+#services {
+    flex-direction: column;
+}
+
+#services .box {}
+
+
+.Uns p img {
+    border: 2px solid black;
+    width: 200px;
+}
+/* Contact us */
+
+/* Footer */
+
+/* Utiliy classes */
+
+.h-2 {
+    font-size: 13px;
+}
+
+.btn {
+    font-size: 13px;
+}
